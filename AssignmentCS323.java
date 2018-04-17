@@ -2,7 +2,7 @@
 *Design and Analysis of Algorithms
 *Programming Assignment Due Date: 9 April 2018
 *part_one
-*@author Yang Yu
+*@author Jeff Yu
 */
 import java.io.*;
 
